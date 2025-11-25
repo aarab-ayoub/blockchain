@@ -1,0 +1,170 @@
+{
+  "accounts": {
+    "account{0}": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+    "account{2}": "0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1764025644010,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x11e3f4b2d8ea8aa5a68e78e3cb5bc14fb360a5a483d67e9ae5c3c3b306bd6ab9",
+        "contractName": "Mycontract",
+        "bytecode": "6080604052348015600e575f5ffd5b5060ba80601a5f395ff3fe6080604052348015600e575f5ffd5b50600436106026575f3560e01c8063d8a188d414602a575b5f5ffd5b60306044565b604051603b9190606d565b60405180910390f35b5f5f9054906101000a900460ff1681565b5f8115159050919050565b6067816055565b82525050565b5f602082019050607e5f8301846060565b9291505056fea2646970667358221220100e2bb6c46116751f4c14c577d26a52dccf62aa9b8e548b7c24c96c0098b9f264736f6c634300081e0033",
+        "linkReferences": {},
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1764025674775,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x11e3f4b2d8ea8aa5a68e78e3cb5bc14fb360a5a483d67e9ae5c3c3b306bd6ab9",
+        "contractName": "Mycontract",
+        "bytecode": "6080604052348015600e575f5ffd5b5060ba80601a5f395ff3fe6080604052348015600e575f5ffd5b50600436106026575f3560e01c8063d8a188d414602a575b5f5ffd5b60306044565b604051603b9190606d565b60405180910390f35b5f5f9054906101000a900460ff1681565b5f8115159050919050565b6067816055565b82525050565b5f602082019050607e5f8301846060565b9291505056fea2646970667358221220100e2bb6c46116751f4c14c577d26a52dccf62aa9b8e548b7c24c96c0098b9f264736f6c634300081e0033",
+        "linkReferences": {},
+        "from": "account{0}"
+      }
+    },
+    {
+      "timestamp": 1764027897184,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x770b4bf22866cc681390d249b6dba73661a2cc7d9a9d2f37712510d9dcd5c914",
+        "contractName": "Mycontract",
+        "bytecode": "60806040526103e86001556301406f40600255348015601c575f5ffd5b50600160035f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f6101000a81548160ff021916908315150217905550600160045f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f6101000a81548160ff02191690831515021790555061028d806100d45f395ff3fe608060405234801561000f575f5ffd5b5060043610610055575f3560e01c806318160ddd146100595780631890834b14610077578063d5abeb01146100a7578063d8a188d4146100c5578063da2d3d69146100e3575b5f5ffd5b610061610113565b60405161006e9190610182565b60405180910390f35b610091600480360381019061008c91906101f9565b610119565b60405161009e919061023e565b60405180910390f35b6100af610136565b6040516100bc9190610182565b60405180910390f35b6100cd61013c565b6040516100da919061023e565b60405180910390f35b6100fd60048036038101906100f891906101f9565b61014d565b60405161010a919061023e565b60405180910390f35b60015481565b6003602052805f5260405f205f915054906101000a900460ff1681565b60025481565b5f5f9054906101000a900460ff1681565b6004602052805f5260405f205f915054906101000a900460ff1681565b5f819050919050565b61017c8161016a565b82525050565b5f6020820190506101955f830184610173565b92915050565b5f5ffd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f6101c88261019f565b9050919050565b6101d8816101be565b81146101e2575f5ffd5b50565b5f813590506101f3816101cf565b92915050565b5f6020828403121561020e5761020d61019b565b5b5f61021b848285016101e5565b91505092915050565b5f8115159050919050565b61023881610224565b82525050565b5f6020820190506102515f83018461022f565b9291505056fea26469706673582212202f55b4ac76897fbc437d27a613d4c21686dcb52ec685f31ea0debfccb5b8463d64736f6c634300081e0033",
+        "linkReferences": {},
+        "from": "account{2}"
+      }
+    },
+    {
+      "timestamp": 1764027910490,
+      "record": {
+        "value": "0",
+        "inputs": "()",
+        "parameters": [],
+        "name": "",
+        "type": "constructor",
+        "abi": "0x770b4bf22866cc681390d249b6dba73661a2cc7d9a9d2f37712510d9dcd5c914",
+        "contractName": "Mycontract",
+        "bytecode": "60806040526103e86001556301406f40600255348015601c575f5ffd5b50600160035f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f6101000a81548160ff021916908315150217905550600160045f3373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1681526020019081526020015f205f6101000a81548160ff02191690831515021790555061028d806100d45f395ff3fe608060405234801561000f575f5ffd5b5060043610610055575f3560e01c806318160ddd146100595780631890834b14610077578063d5abeb01146100a7578063d8a188d4146100c5578063da2d3d69146100e3575b5f5ffd5b610061610113565b60405161006e9190610182565b60405180910390f35b610091600480360381019061008c91906101f9565b610119565b60405161009e919061023e565b60405180910390f35b6100af610136565b6040516100bc9190610182565b60405180910390f35b6100cd61013c565b6040516100da919061023e565b60405180910390f35b6100fd60048036038101906100f891906101f9565b61014d565b60405161010a919061023e565b60405180910390f35b60015481565b6003602052805f5260405f205f915054906101000a900460ff1681565b60025481565b5f5f9054906101000a900460ff1681565b6004602052805f5260405f205f915054906101000a900460ff1681565b5f819050919050565b61017c8161016a565b82525050565b5f6020820190506101955f830184610173565b92915050565b5f5ffd5b5f73ffffffffffffffffffffffffffffffffffffffff82169050919050565b5f6101c88261019f565b9050919050565b6101d8816101be565b81146101e2575f5ffd5b50565b5f813590506101f3816101cf565b92915050565b5f6020828403121561020e5761020d61019b565b5b5f61021b848285016101e5565b91505092915050565b5f8115159050919050565b61023881610224565b82525050565b5f6020820190506102515f83018461022f565b9291505056fea26469706673582212202f55b4ac76897fbc437d27a613d4c21686dcb52ec685f31ea0debfccb5b8463d64736f6c634300081e0033",
+        "linkReferences": {},
+        "from": "account{2}"
+      }
+    }
+  ],
+  "abis": {
+    "0x11e3f4b2d8ea8aa5a68e78e3cb5bc14fb360a5a483d67e9ae5c3c3b306bd6ab9": [
+      {
+        "inputs": [],
+        "name": "addressExists",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ],
+    "0x770b4bf22866cc681390d249b6dba73661a2cc7d9a9d2f37712510d9dcd5c914": [
+      {
+        "inputs": [],
+        "stateMutability": "nonpayable",
+        "type": "constructor"
+      },
+      {
+        "inputs": [],
+        "name": "addressExists",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "name": "adminAccounts",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [
+          {
+            "internalType": "address",
+            "name": "",
+            "type": "address"
+          }
+        ],
+        "name": "devAccounts",
+        "outputs": [
+          {
+            "internalType": "bool",
+            "name": "",
+            "type": "bool"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "maxSupply",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "totalSupply",
+        "outputs": [
+          {
+            "internalType": "uint256",
+            "name": "",
+            "type": "uint256"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ]
+  }
+}
